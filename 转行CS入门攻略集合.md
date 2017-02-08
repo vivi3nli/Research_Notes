@@ -28,3 +28,12 @@ GPA分两种情况CS GPA和其他不相关课GPA。CS GPA越高越好，但是�
 
 ##concern
 [回报论坛：关于自费CS MS的一些问题](http://www.1point3acres.com/bbs/thread-4545-1-1.html)：僧多粥少、能力提升低。
+
+[[经验] 关于CS，一些你不知道的东西（附加一些东西让准备转专业的人看清现实）](http://bbs.gter.net/forum.php?mod=viewthread&tid=1717877&extra=page%3D1%26filter%3Dlastpost%26orderby%3Dlastpost%26orderby%3Dlastpost)
+
+1. 程序员并不是一个能够长期从事的职业
+2. 程序员意味着私人和家庭生活的匮乏
+3. 程序员的工作对身体伤害很大
+4. 程序员的前景并不明朗
+5. 程序员这个行业竞争已经过于激烈
+6. 程序员的绿卡之路并不会比别的职业顺利多少
