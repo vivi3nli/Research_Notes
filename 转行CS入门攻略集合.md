@@ -6,7 +6,9 @@
 
 ##网课推荐型
 [说说这几年的自学cs的经历（零基础）](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=161015&extra=page%3D1%26orderby%3Dheats)
+
 [CS课程自学方法指南——一年学完MIT本科4年课程](http://article.yeeyan.org/view/94114/329073)
+
 [MIT challenge by Scoot Young](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 
 ##综合路径型
