@@ -23,5 +23,8 @@ GPA分两种情况CS GPA和其他不相关课GPA。CS GPA越高越好，但是�
 
 [转专业宜早不宜晚，学生物的赶紧的](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=82409&extra=page%3D1%26filter%3Dtypeid%26typeid%3D692%26typeid%3D692)不建议从生物信息过渡。
 
+##时间安排
+[一种入学后转专业＋找实习＋拿return offer的时间规划](http://www.1point3acres.com/bbs/thread-201068-1-1.html)
+
 ##concern
-[回报论坛：关于自费CS MS的一些问题](http://www.1point3acres.com/bbs/thread-4545-1-1.html)僧多粥少
+[回报论坛：关于自费CS MS的一些问题](http://www.1point3acres.com/bbs/thread-4545-1-1.html)：僧多粥少、能力提升低。
