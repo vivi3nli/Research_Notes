@@ -4,8 +4,12 @@
 
 来源：一亩三分地论坛【转CS】板块，分析了两种对CS毕业生的需求，即重算法轻经验型（如FAG）和重视经验型（如MIO），并提出了针对性的指导方案（各推荐了几本书）适合打算从非CS专业（最好是工科）转到CS读master然后毕业找工作的人群
 
+[想在美国找CS软件工作？Warald提供需要学习的书籍和课程名单！](http://www.1point3acres.com/bbs/thread-50411-1-1.html)
+
 ##网课推荐型
 [说说这几年的自学cs的经历（零基础）](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=161015&extra=page%3D1%26orderby%3Dheats)
+
+[干货：五门CS基础课推荐（价值两万多美元的美国名校课程，零基础，转专业都可学！](https://zhuanlan.zhihu.com/p/24774857?refer=slackers)
 
 [CS课程自学方法指南——一年学完MIT本科4年课程](http://article.yeeyan.org/view/94114/329073)
 
@@ -14,6 +18,10 @@
 ##综合路径型
 
 [零基础如何专业申CS master指南](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=180296&extra=page%3D1%26orderby%3Dheats):包含转专业友好学校
+
+[文科生通过考研能否转行当程序员？](https://www.zhihu.com/question/26546908)
+
+[趁着最近人气高,Warald召集大家讨论CS学习问题,分享资源！](http://www.1point3acres.com/bbs/thread-24531-1-1.html)
 
 ##生物转CS
 [ 生物博士转CS的申请体会（一）](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=210457&extra=page%3D1%26filter%3Dtypeid%26typeid%3D692%26typeid%3D692)
