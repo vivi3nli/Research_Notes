@@ -14,4 +14,4 @@ This is a repository basically for storing my temporary little research projects
 
 仅关注移动版，从13年开始设立
 
-##[用python读史记，史记分词、词频统计、云图和数据挖掘](https://github.com/vivi3nli/Research_Notes/tree/master/History_dataminig)
+[##用python读史记，史记分词、词频统计、云图和数据挖掘](https://github.com/vivi3nli/Research_Notes/tree/master/History_dataminig)
